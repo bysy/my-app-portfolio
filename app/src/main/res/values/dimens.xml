@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="activity_horizontal_margin">32dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="headline_margin_bottom">24dp</dimen>
+    <dimen name="headline_text_size">24sp</dimen>
+    <dimen name="button_margin_bottom">2dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+</resources>

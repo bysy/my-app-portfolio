@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+    <string name="headline">My Nanodegree Apps!</string>
+    <string name="app1_label">My So-so App 1</string>
+    <string name="app2_label">My Pretty Average App 2</string>
+    <string name="app3_label">My Kinda Funky App 3</string>
+    <string name="app4_label">My Crazy App 4</string>
+    <string name="app5_label">My Idiosyncratic App 5</string>
+    <string name="app6_label">App 6. Call me a rock star.</string>
+</resources>
